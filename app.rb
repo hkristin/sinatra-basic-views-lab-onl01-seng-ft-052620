@@ -7,4 +7,3 @@ get '/'
 end
 
 end
-end
